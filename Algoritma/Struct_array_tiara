@@ -1,0 +1,39 @@
+# include < iostream >
+# sertakan < string >
+# include < sstream >
+menggunakan  namespace  std ;
+
+	struct  barang
+	{
+		string brg;
+		int harga;
+	} brg1 [ 3 ];
+
+batal  printbarang1 (barang barang1);
+
+int  main ()
+{
+     string gaskeun;
+     int b;
+             untuk (b = 0 ; b < 3 ; b ++)
+             {
+             cout << " Masukkan Nama Barang: " ;
+             getline (cin, brg1 [b]. brg );
+             cout << " Masukkan Harga: Rp. " ;
+             
+             getline (cin, gaskeun);
+             stringstream (gaskeun) >> brg1 [b]. harga ; }
+             
+       cout << " \ n Barang yang Telah Diinput: \ n " ;
+       untuk (b = 0 ; b < 3 ; b ++)
+       printbarang1 (brg1 [b]);   
+     
+return  0 ;
+
+}
+
+batal  printbarang1 (barang barang1)
+{
+	cout << barang1. brg << " \ t " ;
+	cout << " \ t Rp. " << barang1. harga << " , - \ n " ;
+}
