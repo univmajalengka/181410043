@@ -19,13 +19,13 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `tiaraw_insertrecord`
+-- Database: `tiaraw`
 --
 
 -- --------------------------------------------------------
 
 --
--- Table structure for table `data kasir`
+-- Table structure for table `data`
 --
 
 CREATE TABLE `data kasir` (
