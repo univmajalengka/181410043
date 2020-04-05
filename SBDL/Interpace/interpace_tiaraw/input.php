@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Membuat CRUD Dengan PHP Dan MySQL - Menampilkan data dari database</title>
+	<title>Menampilkan data dari database</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 	<div class="judul">		
 		<h1>Membuat CRUD Dengan PHP Dan MySQL</h1>
 		<h2>Menampilkan data dari database</h2>
-		<h3>www.malasngoding.com</h3>
+		<h3>tiarawulandari</h3>
 	</div>
 	
 	<br/>
