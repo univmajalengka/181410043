@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Feb 13, 2016 at 09:14 AM
+-- Generation Time: April 05, 2020 at 20:50 AM
 -- Server version: 5.5.27
 -- PHP Version: 5.4.7
 
@@ -17,7 +17,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8 */;
 
 --
--- Database: `malasngoding`
+-- Database: `tiaraw`
 --
 
 -- --------------------------------------------------------
@@ -39,9 +39,9 @@ CREATE TABLE IF NOT EXISTS `user` (
 --
 
 INSERT INTO `user` (`id`, `nama`, `alamat`, `pekerjaan`) VALUES
-(1, 'Andi', 'Surabaya', 'web programmer'),
-(2, 'Santoso', 'Jakarta', 'Web Designer'),
-(6, 'Samsul', 'Sumedang', 'Pegawai');
+(1, 'Tiara', 'Simpeureum', 'PNS'),
+(2, 'Mega', 'Maja', 'Designer'),
+(6, 'Tika', 'Rajagaluh', 'Dokter');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
