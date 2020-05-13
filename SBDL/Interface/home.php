@@ -47,7 +47,7 @@ body{background:#eeeeee;}
     <iframe name="tengah" src="pelanggan_view.php" width="100%" height="100%" frameborder="0"></iframe>
     </div>
     <div id="bawah">
-    Copyright &copy <b>2018</b> By. <b>Saha Saya</b>
+    Copyright &copy <b>2020</b> By. <b>Tiara WD</b>
     </div>
 </div>
 <?php
